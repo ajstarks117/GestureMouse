@@ -1,0 +1,50 @@
+# ----------------------------
+# Python cache / compiled files
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------------
+# Virtual Environment
+# ----------------------------
+venv/
+.env/
+.env.*
+
+# ----------------------------
+# IDE / Editor files
+# ----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ----------------------------
+# OS generated files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Logs & runtime files
+# ----------------------------
+*.log
+
+# ----------------------------
+# Python packaging
+# ----------------------------
+build/
+dist/
+*.egg-info/
+
+# ----------------------------
+# Jupyter / temp
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Local config overrides (if any)
+# ----------------------------
+config.local.py
+settings.local.py
